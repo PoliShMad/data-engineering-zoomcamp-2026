@@ -210,3 +210,12 @@ __marimo__/
 
 # Database data
 pipeline/ny_taxi_postgres_data/
+
+# Archivos pesados
+*.csv
+*.csv.gz
+
+# 
+.venv/
+__pycache__/
+.ipynb_checkpoints/
